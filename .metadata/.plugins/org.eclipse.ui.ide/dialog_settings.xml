@@ -6,6 +6,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="F:\Dam1\Entorns de desenvolupament - DAM1\Entorns-pra1"/>
 			<item value="F:\DAM\GITHUB\GITHUB"/>
 		</list>
 	</section>
