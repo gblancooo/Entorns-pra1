@@ -16,7 +16,7 @@ public class practica {
 			suma += sumArray[vueltas];
 		}
 		
-		System.out.println("Total: " + suma + "");//
+		System.out.println("Total: " + suma + "");
 		
 		// User 2 fer la resta dels elements de subArray
 		
