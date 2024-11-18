@@ -19,7 +19,7 @@ public class practica {
 			
 			resta -= subArray[vueltas2];
 		}
-		
+		 
 		System.out.println("Total: " + resta + "");
 		
 		// User 3 fer la multiplicació dels elements de prodArray
